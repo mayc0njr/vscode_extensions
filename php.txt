@@ -1,0 +1,24 @@
+Extensoes para desenvolvimento PHP
+Extensions to PHP development
+
+alefragnani.project-manager@10.5.2
+bmewburn.vscode-intelephense-client@1.0.14
+chrmarti.regex@0.2.0
+CoenraadS.bracket-pair-colorizer-2@0.0.28
+donjayamanne.githistory@0.4.6
+eamodio.gitlens@9.8.2
+felixfbecker.php-debug@1.13.0
+formulahendry.code-runner@0.9.10
+GrapeCity.gc-excelviewer@2.1.32
+humao.rest-client@0.21.3
+ikappas.phpcs@1.0.5
+ionutvmi.path-autocomplete@1.13.3
+jakob101.RelativePath@1.4.0
+LouisWT.regexp-preview@0.0.2
+mechatroner.rainbow-csv@1.1.1
+mkloubert.vscode-kanban@1.25.0
+mtxr.sqltools@0.19.5
+ryu1kn.partial-diff@1.4.0
+Tyriar.sort-lines@1.8.0
+vscode-icons-team.vscode-icons@8.7.0
+wmaurer.change-case@1.0.0
