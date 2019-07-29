@@ -22,3 +22,4 @@ ryu1kn.partial-diff@1.4.0
 Tyriar.sort-lines@1.8.0
 vscode-icons-team.vscode-icons@8.7.0
 wmaurer.change-case@1.0.0
+vilicvane.sensitive-replace@0.1.1
